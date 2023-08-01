@@ -1,5 +1,6 @@
+
 // Import any required URLs or helper functions
-const selectedApiUrl = 'https://www.themealdb.com/api/json/v1/1/lookup.php?i=';
+const apiUrl = 'https://www.themealdb.com/api/json/v1/1/lookup.php?i=';
 const involvementApiUrl = 'https://us-central1-involvement-api.cloudfunctions.net/capstoneApi/';
 
 // Function to show the popup with meal details and comments
