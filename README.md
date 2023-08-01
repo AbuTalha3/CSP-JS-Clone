@@ -1,2 +1,2 @@
-# CSP-JS-Clone
-cloned for self learning.
+# JAVASCRIPT_CAPSTONE
+hello, world
